@@ -1,0 +1,13 @@
+<scheme name="Default copy" version="142" parent_scheme="Default">
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <attributes>
+    <option name="BROWSEWORDATCARET">
+      <value>
+        <option name="BACKGROUND" value="5ced00" />
+        <option name="ERROR_STRIPE_COLOR" value="526da5" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
