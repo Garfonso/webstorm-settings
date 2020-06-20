@@ -5,8 +5,8 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.css" />
     <mask>*.xml</mask>
-    <mask>*.css</mask>
     <mask>*.ng</mask>
     <mask>*.htm</mask>
     <mask>*.shtml</mask>
@@ -18,5 +18,6 @@
     <mask>*.cjs</mask>
     <mask>*.json</mask>
     <mask>*.js</mask>
+    <mask>*.css</mask>
   </component>
 </application>
